@@ -15,4 +15,9 @@
     "jquery.json-viewer": "^1.1.0",
     "passport": "^0.3.2"
   }
+,
+  "engines": {
+  "node": "8.15.1" ,
+  "npm" : "6.4.1"  
+}
 }
